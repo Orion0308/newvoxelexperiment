@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/OpenGL.dir/glad.c.o CMakeFiles/OpenGL.dir/main.cpp.o -o OpenGL  -lglfw ../libglad.a 

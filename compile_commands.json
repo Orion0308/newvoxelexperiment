@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/liam/Programming/NewVoxelExperiment/build",
+  "command": "/usr/bin/cc  -I/home/liam/Programming/NewVoxelExperiment/include -Wno-old-style-cast -Wno-c++11-narrowing -Wno-iso-c++-forbidden-cast -o CMakeFiles/glad.dir/src/glad.c.o -c /home/liam/Programming/NewVoxelExperiment/src/glad.c",
+  "file": "/home/liam/Programming/NewVoxelExperiment/src/glad.c",
+  "output": "CMakeFiles/glad.dir/src/glad.c.o"
+},
+{
+  "directory": "/home/liam/Programming/NewVoxelExperiment/build/src",
+  "command": "/usr/bin/cc  -I/home/liam/Programming/NewVoxelExperiment/include -g -g -O0 -Wall -Wextra -Wpedantic -o CMakeFiles/OpenGL.dir/glad.c.o -c /home/liam/Programming/NewVoxelExperiment/src/glad.c",
+  "file": "/home/liam/Programming/NewVoxelExperiment/src/glad.c",
+  "output": "src/CMakeFiles/OpenGL.dir/glad.c.o"
+},
+{
+  "directory": "/home/liam/Programming/NewVoxelExperiment/build/src",
+  "command": "/usr/bin/c++  -I/home/liam/Programming/NewVoxelExperiment/include -std=gnu++23 -g -g -O0 -Wall -Wextra -Wpedantic -o CMakeFiles/OpenGL.dir/main.cpp.o -c /home/liam/Programming/NewVoxelExperiment/src/main.cpp",
+  "file": "/home/liam/Programming/NewVoxelExperiment/src/main.cpp",
+  "output": "src/CMakeFiles/OpenGL.dir/main.cpp.o"
+}
+]
